@@ -1,5 +1,5 @@
 {
-  "homepage":"https://mudasirpandith.github.io/my-website",
+ 
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -29,8 +29,7 @@
     "gh-pages":"^4.0.0",
   },
   "scripts": {
-    "predeploy":"run npm build",
-    "deploy":"gh-pages -d build",
+  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
